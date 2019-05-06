@@ -19,3 +19,5 @@ También puedes aprender albañilería si encuentras al "Instructor muralleitor"
   <p>
    El <b>vampiro </b> puede convertir a una unidad (no el campesino) en uno a su servicio durante 30s. Acto seguido muere desangrado.
   </p>  
+
+- Uso de colores para la calidad de las estructuras / items.
